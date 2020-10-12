@@ -1,0 +1,27 @@
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: center;
+}
+body{
+    background-color: blanchedalmond;
+}
+.preguntaaaa{
+    font-weight: bold;
+    font-size: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    width: 500px;
+}
+img{
+    float: right;
+    padding: 8em;
+    width: 400px;
+    height: 400px;
+    
+}
+.boton{
+    text-align: center;
+    
+}
